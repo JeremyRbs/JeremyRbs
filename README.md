@@ -1,6 +1,6 @@
 # Jérémy Ribes
 
-Engineer - product cybersecurity for industrial systems and embedded systems.
+Engineer — product cybersecurity for industrial & embedded systems.
 
 After several years in software architecture, cloud, and risk analysis,
 I now focus on OT security and the lifecycle security of industrial products.
