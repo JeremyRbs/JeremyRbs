@@ -1,14 +1,14 @@
 # Jérémy Ribes
 
-Ingénieur - cybersécurité des produits industriels et systèmes embarqués.
+Engineer - product cybersecurity for industrial systems and embedded systems.
 
-Après plusieurs années en architecture logicielle, cloud et analyse de risques,
-je me concentre sur la sécurité des systèmes OT et du cycle de vie des produits industriels.
+After several years in software architecture, cloud, and risk analysis,
+I now focus on OT security and the lifecycle security of industrial products.
 
-## Projet en cours
-- 🔧 [ot-lab](https://github.com/JeremyRbs/ot-lab) - banc d'essai personnel : PLC (OpenPLC),
-  Modbus/TCP, attaques et défenses reproduites sur environnement contrôlé.
+## Current project
+- 🔧 [ot-lab](https://github.com/JeremyRbs/ot-lab) - personal test bench: PLC (OpenPLC),
+  Modbus/TCP, attacks and defenses reproduced in a controlled environment.
 
-## Centres d'intérêt
-- ISA/IEC 62443 · sécurité du cycle de vie produit (SDLC) · protocoles industriels (Modbus, OPC-UA)
-- Sécurité embarquée · SBOM (CycloneDX)
+## Areas of interest
+- ISA/IEC 62443 · product lifecycle security (SDLC) · industrial protocols (Modbus, OPC-UA)
+- Embedded security · SBOM (CycloneDX)
